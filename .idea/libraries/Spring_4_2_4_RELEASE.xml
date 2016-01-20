@@ -20,8 +20,17 @@
       <root url="jar://$PROJECT_DIR$/springdi/lib/spring-test-4.2.4.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/springdi/lib/spring-context-4.2.4.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/springdi/lib/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="file://$USER_HOME$/0apps/spring-framework-4.2.4.RELEASE/libs" />
+      <root url="file://$USER_HOME$/0apps/commons-logging-1.2" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="file://$USER_HOME$/0apps/commons-logging-1.2/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/0apps/spring-framework-4.2.4.RELEASE/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/0apps/commons-logging-1.2" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/0apps/spring-framework-4.2.4.RELEASE/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/0apps/spring-framework-4.2.4.RELEASE/libs" recursive="false" type="SOURCES" />
   </library>
 </component>
